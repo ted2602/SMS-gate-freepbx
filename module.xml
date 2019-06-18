@@ -1,0 +1,18 @@
+<module>
+	<rawname>smsgate</rawname>
+	<name>SMS Gate</name>
+	<version>0.8</version>
+	<publisher>Itach-soft</publisher>
+	<info>https://www.itach.by/</info>
+	<category>Applications</category>
+	<menuitems>
+		<smsgate>SMS Gate</smsgate>
+	</menuitems>
+	<description>Allows you to send and recieve SMS and USSD through GSM-gateways</description>
+	<changelog>
+		*0.8* 0.8 Realese
+	</changelog>
+	<supported>
+		<version>13.0</version>
+	</supported>
+</module>

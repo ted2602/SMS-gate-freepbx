@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="205c8986-5259-4645-a939-2cc870c3c790" name="maxifon" url="http://10.180.1.19">
+        <fileTransfer host="10.180.1.19" port="22" rootFolder="/var/www/html/admin/modules/smsgate" accessType="SFTP" password="df9bdf98df99dfdbdfdddfcfdfcbdfd9dfcedfebdff9dfee" username="root">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

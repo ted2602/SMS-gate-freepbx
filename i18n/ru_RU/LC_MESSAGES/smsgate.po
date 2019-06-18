@@ -1,0 +1,144 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ru_RU\n"
+"X-Generator: Poedit 1.8.4\n"
+
+msgid "Time sms:"
+msgstr "Время sms:"
+
+msgid "Number:"
+msgstr "Номер:"
+
+msgid "Text sms:"
+msgstr "Текст SMS сообщения:"
+
+msgid "SMS Gate Module"
+msgstr "Модуль SMS шлюз"
+
+msgid "Send SMS"
+msgstr "Отправить SMS"
+
+msgid "Recieve SMS"
+msgstr "Получение SMS"
+
+msgid "Send USSD"
+msgstr "Отправить USSD"
+
+msgid "Smsgate Settings"
+msgstr "Smsgate параметры"
+
+msgid "Smsgate Statistics"
+msgstr "Smsgate статистика"
+
+msgid "Gate"
+msgstr "Шлюз"
+
+msgid "SMS from Gate"
+msgstr "SMS из шлюза"
+
+msgid ". Port:"
+msgstr ". Порт:"
+
+msgid "Answer:"
+msgstr "Ответ:"
+
+msgid "No new incoming sms"
+msgstr "Никаких новых входящих sms"
+
+msgid "Recieve SMS from Gate "
+msgstr "Получение SMS из шлюза"
+
+msgid "Choose gate port"
+msgstr "Выбор порта на шлюзе"
+
+msgid "Port"
+msgstr "Порт"
+
+msgid "send"
+msgstr "Отправить"
+
+msgid "Status:"
+msgstr "Статус:"
+
+msgid "Send SMS from Gate "
+msgstr "Отправить SMS из шлюза"
+
+msgid "Enter sms number"
+msgstr "Введите номер sms"
+
+msgid "Enter sms number in format 80XXXXXXXXX"
+msgstr "Введите номер sms в формате 80XXXXXXXXX"
+
+msgid "Enter sms text"
+msgstr "Введите текст sms"
+
+msgid "USSD from Gate"
+msgstr "USSD из шлюза"
+
+msgid "Send USSD from Gate "
+msgstr "Отправить USSD из шлюза"
+
+msgid "Enter ussd number"
+msgstr "Введите ussd-номер"
+
+msgid "Gate ip or dns name"
+msgstr "IP- адрес или  DNS-имя сервера шлюза"
+
+msgid "Enter Gate IP-address or full dns name"
+msgstr "Введите полное DNS-имя или IP-адрес шлюза"
+
+msgid "Gate api port"
+msgstr "API порт шлюза"
+
+msgid "Enter gate API port to connect"
+msgstr "Введите API порт шлюза для подключения"
+
+msgid "Gate API username"
+msgstr "API Имя пользователя"
+
+msgid "Enter API Gate username"
+msgstr "Введите имя пользователя API шлюза"
+
+msgid "Gate API password"
+msgstr "Пароль API шлюза"
+
+msgid "Enter Gate API password"
+msgstr "Введите пароль API шлюза"
+
+msgid "Gate number of ports"
+msgstr "Количество портов на шлюзе"
+
+msgid "Enter how many ports have gate"
+msgstr "Как много портов имеет шлюз"
+
+msgid "Add/Edit Settings"
+msgstr "Добавить/изменить"
+
+msgid "Date"
+msgstr "Дата"
+
+msgid "Message id"
+msgstr "id сообщения"
+
+msgid "Type"
+msgstr "Тип"
+
+msgid "Gate ID"
+msgstr "Шлюз"
+
+msgid "Number"
+msgstr "Номер"
+
+msgid "Text"
+msgstr "Текст"
+
+msgid "Status"
+msgstr "Статус"
